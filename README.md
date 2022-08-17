@@ -29,4 +29,4 @@ $ npm run dev
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 ### Dependencias
-<img src="https://img.shields.io/badge/npm-express-blue"/> <img src="https://img.shields.io/badge/npm-dotenv-orange"/> <img src="https://img.shields.io/badge/npm-bcrypt-green"/> <img src="https://img.shields.io/badge/npm-jsonwebtoken-yellow"/> <img src="https://img.shields.io/badge/npm-mongoose-lightgrey"/> <img src="https://img.shields.io/badge/npm-nodemon-red"/>
+<img src="https://img.shields.io/badge/express-v4.18.1-blue"/> <img src="https://img.shields.io/badge/dotenv-v16.0.1-green"/> <img src="https://img.shields.io/badge/bcrypt-v5.0.1-brightgreen"/> <img src="https://img.shields.io/badge/jsonwebtoken-v8.5.1-yellow"/> <img src="https://img.shields.io/badge/mongoose-v6.5.2-orange"/>
